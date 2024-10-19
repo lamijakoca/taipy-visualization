@@ -1,0 +1,15 @@
+Country: The name of the country.
+
+Year: The year of the data point (2000–2023).
+
+Population: The estimated population for the given year.
+
+Gini Index: A measure of income inequality, where 0 represents perfect equality and 1 represents maximum inequality.
+
+Average Income (USD): The average income in USD for the country in the given year.
+
+Top 10% Income Share (%): The percentage of total income held by the top 10% of the population.
+
+Bottom 10% Income Share (%): The percentage of total income held by the bottom 10% of the population.
+
+Income Group: Categorization of the country’s income group (Low Income, Lower Middle Income, Upper Middle Income, High Income).
